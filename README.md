@@ -62,4 +62,4 @@ The index of the value 30 in my_list is 3
 
 ## Author
 
-This assignment was created by [ThatDudeJude](https://github.com/ThatDudeJude) for a Python programming class to practice basic list operations.
+This assignment was created by [ThatDudeJude](https://github.com/ThatDudeJude) for a PLP Python programming class to practice basic list operations.
